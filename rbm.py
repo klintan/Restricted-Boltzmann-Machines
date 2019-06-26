@@ -77,7 +77,7 @@ class RBM():
 
 
 nv = len(training_set[0])
-nh = 100
+nh = 1
 batch_size = 100
 rbm = RBM(nv, nh)
 
